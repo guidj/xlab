@@ -1,0 +1,4 @@
+scipy==0.16.1
+numpy==1.11.0
+requests==2.9.1
+jupyter==1.0.0
